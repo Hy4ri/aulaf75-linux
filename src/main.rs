@@ -12,7 +12,7 @@ struct AulaApp {
 }
 
 impl AulaApp {
-    fn new(cx: &mut Context<Self>) -> Self {
+    fn new(_cx: &mut Context<Self>) -> Self {
         let mut dev = AulaDevice::new();
         let status = match dev.connect() {
             Ok(true) => format!("Connected ({:?})", dev.mode),
@@ -53,7 +53,7 @@ impl Render for AulaApp {
                             .child(
                                 div()
                                     .text_xl()
-                                    .font_bold()
+                                    .font_weight(FontWeight::BOLD)
                                     .child("AULA F75 Control"),
                             )
                     )
@@ -76,7 +76,7 @@ impl Render for AulaApp {
                             .flex()
                             .flex_col()
                             .gap_2()
-                            .child(div().font_semibold().text_sm().child("Lighting Effects"))
+                            .child(div().font_weight(FontWeight::SEMIBOLD).text_sm().child("Lighting Effects"))
                             .child(
                                 div()
                                     .flex()
