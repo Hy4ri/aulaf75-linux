@@ -1,3 +1,7 @@
 /target
+/result
 .direnv
 .envrc.local
+# Raw local analysis exports are large and contain decompiled vendor code.
+/docs/re/evidence/
+

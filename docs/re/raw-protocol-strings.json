@@ -1,0 +1,200 @@
+{
+  "target_sha256": "7c41a8af17b8d1577ac5660b8f0ce1be61da50fd33a5238158c62e6097292783",
+  "hits": [
+    {
+      "address": "0x5fc878",
+      "file_offset": "0x1fb878",
+      "value": "Debounce"
+    },
+    {
+      "address": "0x5fc88c",
+      "file_offset": "0x1fb88c",
+      "value": "DebounceUI"
+    },
+    {
+      "address": "0x5fc8a4",
+      "file_offset": "0x1fb8a4",
+      "value": "DebounceHW"
+    },
+    {
+      "address": "0x5fd0a8",
+      "file_offset": "0x1fc0a8",
+      "value": "ShowDebounce"
+    },
+    {
+      "address": "0x605df0",
+      "file_offset": "0x204df0",
+      "value": "tc_debounce_tips"
+    },
+    {
+      "address": "0x60d120",
+      "file_offset": "0x20c120",
+      "value": "CDev3632::AccessData param err, m_hDev=%x, nBytesToWrite=%d"
+    },
+    {
+      "address": "0x60d198",
+      "file_offset": "0x20c198",
+      "value": "!! CDev3632::AccessData: send package %d err=0x%x"
+    },
+    {
+      "address": "0x60d218",
+      "file_offset": "0x20c218",
+      "value": "!! CDev3632::AccessData: %s err, cmd=0x%x, package=%d"
+    },
+    {
+      "address": "0x60d288",
+      "file_offset": "0x20c288",
+      "value": "!! CDev3632::AccessData: read err, cmd=0x%x, nRet=%d, package=%d"
+    },
+    {
+      "address": "0x60d5a0",
+      "file_offset": "0x20c5a0",
+      "value": "CDev3632::GetLED"
+    },
+    {
+      "address": "0x60db60",
+      "file_offset": "0x20cb60",
+      "value": "CDev3632::ApplySetting: hWnd=%x, nFlag=%x, bBT=%x"
+    },
+    {
+      "address": "0x60de98",
+      "file_offset": "0x20ce98",
+      "value": "GetPassword: Send Err"
+    },
+    {
+      "address": "0x60dec4",
+      "file_offset": "0x20cec4",
+      "value": "GetPassword: GET Err"
+    },
+    {
+      "address": "0x60def0",
+      "file_offset": "0x20cef0",
+      "value": "SendMusicData Err=0x%x"
+    },
+    {
+      "address": "0x60e3f0",
+      "file_offset": "0x20d3f0",
+      "value": "CDev916KB::ApplySetting: hWnd=%x, nFlag=%x, nData=%x, nFw=%d"
+    },
+    {
+      "address": "0x60ea48",
+      "file_offset": "0x20da48",
+      "value": "SyncCfg: GetLED Err: read valid data, retry now"
+    },
+    {
+      "address": "0x60eaa8",
+      "file_offset": "0x20daa8",
+      "value": "SyncCfg: GetLED Err"
+    },
+    {
+      "address": "0x60eb5c",
+      "file_offset": "0x20db5c",
+      "value": "SyncCfg: GetLED failed"
+    },
+    {
+      "address": "0x60f0b8",
+      "file_offset": "0x20e0b8",
+      "value": "CDevComboFilm::GetLED"
+    },
+    {
+      "address": "0x60f150",
+      "file_offset": "0x20e150",
+      "value": "CDevComboFilm::ApplySetting: hWnd=%x, nFlag=%x, nData=%x, bBT=%x"
+    },
+    {
+      "address": "0x60f4e8",
+      "file_offset": "0x20e4e8",
+      "value": "CDevG5KB::AccessData Param err, hDev=%x"
+    },
+    {
+      "address": "0x60f538",
+      "file_offset": "0x20e538",
+      "value": "CDevG5KB::AccessData nOper err"
+    },
+    {
+      "address": "0x60f578",
+      "file_offset": "0x20e578",
+      "value": "CDevG5KB::AccessData err=%d"
+    },
+    {
+      "address": "0x60f5b0",
+      "file_offset": "0x20e5b0",
+      "value": "CDevG5KB::AccessData read err=%d"
+    },
+    {
+      "address": "0x60f614",
+      "file_offset": "0x20e614",
+      "value": "GetLED failed"
+    },
+    {
+      "address": "0x60f678",
+      "file_offset": "0x20e678",
+      "value": "GetLedRgbTab failed"
+    },
+    {
+      "address": "0x60f6cc",
+      "file_offset": "0x20e6cc",
+      "value": "GetPassword failed"
+    },
+    {
+      "address": "0x60f938",
+      "file_offset": "0x20e938",
+      "value": "CDevG5KB::ApplySetting: hWnd=%x, nFlag=%x, nData=%x, nFw=%d, nMatrixLen=%d"
+    },
+    {
+      "address": "0x60fc80",
+      "file_offset": "0x20ec80",
+      "value": "CDevG5KB::AccessData_Page Param err"
+    },
+    {
+      "address": "0x60fcd8",
+      "file_offset": "0x20ecd8",
+      "value": "CDevG5KB::AccessData_Page err=%d"
+    },
+    {
+      "address": "0x60fd20",
+      "file_offset": "0x20ed20",
+      "value": "CDevG5KB::AccessData_Page send package %d ok, dataUnit=%d"
+    },
+    {
+      "address": "0x60fd98",
+      "file_offset": "0x20ed98",
+      "value": "CDevG5KB::AccessData_Page send this page, Buffer=%x %x %x %x %x"
+    },
+    {
+      "address": "0x60fe18",
+      "file_offset": "0x20ee18",
+      "value": "CDevG5KB::AccessData_Page timeout, k=%d"
+    },
+    {
+      "address": "0x6102f8",
+      "file_offset": "0x20f2f8",
+      "value": "AccessData CRC err for nCmdID=%x, retry now"
+    },
+    {
+      "address": "0x610350",
+      "file_offset": "0x20f350",
+      "value": "AccessData: GetFeature Failed, cmd id unmatch, Buffer[2]=%x, bBuf[2]=%x"
+    },
+    {
+      "address": "0x6103e0",
+      "file_offset": "0x20f3e0",
+      "value": "AccessData: GetFeature nErr=%d, nCmdID=%x"
+    },
+    {
+      "address": "0x610438",
+      "file_offset": "0x20f438",
+      "value": "AccessData: SetFeature nErr=%d, nCmdID=%x"
+    },
+    {
+      "address": "0x610490",
+      "file_offset": "0x20f490",
+      "value": "AccessData: retry SetFeature now"
+    },
+    {
+      "address": "0x6107b0",
+      "file_offset": "0x20f7b0",
+      "value": "CDevG5MS::ApplySetting: hWnd=%x, nFlag=%x"
+    }
+  ]
+}

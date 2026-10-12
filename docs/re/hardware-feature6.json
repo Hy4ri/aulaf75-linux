@@ -1,0 +1,16 @@
+{
+  "operation": "HIDIOCGFEATURE",
+  "report_id": 6,
+  "bytes": [
+    6,
+    0,
+    2,
+    100,
+    100,
+    100,
+    203,
+    12
+  ],
+  "hex": "060002646464cb0c",
+  "ioctl_result": 8
+}

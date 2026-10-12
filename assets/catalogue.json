@@ -1,0 +1,1036 @@
+{
+  "name": "AULA F75",
+  "identity": [
+    3,
+    0,
+    0,
+    0,
+    0,
+    205
+  ],
+  "keys": [
+    {
+      "id": 1,
+      "label": "Esc",
+      "x": 30.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 27,
+      "matrix_index": 0
+    },
+    {
+      "id": 2,
+      "label": "F1",
+      "x": 107.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 112,
+      "matrix_index": 12
+    },
+    {
+      "id": 3,
+      "label": "F2",
+      "x": 144.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 113,
+      "matrix_index": 18
+    },
+    {
+      "id": 4,
+      "label": "F3",
+      "x": 183.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 114,
+      "matrix_index": 24
+    },
+    {
+      "id": 5,
+      "label": "F4",
+      "x": 222.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 115,
+      "matrix_index": 30
+    },
+    {
+      "id": 6,
+      "label": "F5",
+      "x": 269.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 116,
+      "matrix_index": 36
+    },
+    {
+      "id": 7,
+      "label": "F6",
+      "x": 305.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 117,
+      "matrix_index": 42
+    },
+    {
+      "id": 8,
+      "label": "F7",
+      "x": 343.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 118,
+      "matrix_index": 48
+    },
+    {
+      "id": 9,
+      "label": "F8",
+      "x": 388.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 119,
+      "matrix_index": 54
+    },
+    {
+      "id": 10,
+      "label": "F9",
+      "x": 439.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 120,
+      "matrix_index": 60
+    },
+    {
+      "id": 11,
+      "label": "F10",
+      "x": 477.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 121,
+      "matrix_index": 66
+    },
+    {
+      "id": 12,
+      "label": "F11",
+      "x": 516.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 122,
+      "matrix_index": 72
+    },
+    {
+      "id": 13,
+      "label": "F12",
+      "x": 555.0,
+      "y": 30.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 123,
+      "matrix_index": 78
+    },
+    {
+      "id": 14,
+      "label": "End",
+      "x": 605.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 35,
+      "matrix_index": 88
+    },
+    {
+      "id": 15,
+      "label": "`",
+      "x": 31.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 192,
+      "matrix_index": 1
+    },
+    {
+      "id": 16,
+      "label": "1",
+      "x": 70.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 49,
+      "matrix_index": 7
+    },
+    {
+      "id": 17,
+      "label": "2",
+      "x": 108.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 50,
+      "matrix_index": 13
+    },
+    {
+      "id": 18,
+      "label": "3",
+      "x": 147.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 51,
+      "matrix_index": 19
+    },
+    {
+      "id": 19,
+      "label": "4",
+      "x": 184.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 52,
+      "matrix_index": 25
+    },
+    {
+      "id": 20,
+      "label": "5",
+      "x": 223.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 53,
+      "matrix_index": 31
+    },
+    {
+      "id": 21,
+      "label": "6",
+      "x": 262.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 54,
+      "matrix_index": 37
+    },
+    {
+      "id": 22,
+      "label": "7",
+      "x": 300.0,
+      "y": 80.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 55,
+      "matrix_index": 43
+    },
+    {
+      "id": 23,
+      "label": "8",
+      "x": 338.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 56,
+      "matrix_index": 49
+    },
+    {
+      "id": 24,
+      "label": "9",
+      "x": 377.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 57,
+      "matrix_index": 55
+    },
+    {
+      "id": 25,
+      "label": "0",
+      "x": 416.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 48,
+      "matrix_index": 61
+    },
+    {
+      "id": 26,
+      "label": "-",
+      "x": 453.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 189,
+      "matrix_index": 67
+    },
+    {
+      "id": 27,
+      "label": "=",
+      "x": 491.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 187,
+      "matrix_index": 73
+    },
+    {
+      "id": 28,
+      "label": "Backspace",
+      "x": 531.0,
+      "y": 81.0,
+      "width": 60.0,
+      "height": 27.0,
+      "virtual_key": 8,
+      "matrix_index": 79
+    },
+    {
+      "id": 29,
+      "label": "Delete",
+      "x": 604.0,
+      "y": 81.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 46,
+      "matrix_index": 85
+    },
+    {
+      "id": 30,
+      "label": "Tab",
+      "x": 34.0,
+      "y": 120.0,
+      "width": 44.0,
+      "height": 27.0,
+      "virtual_key": 9,
+      "matrix_index": 2
+    },
+    {
+      "id": 31,
+      "label": "Q",
+      "x": 89.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 81,
+      "matrix_index": 8
+    },
+    {
+      "id": 32,
+      "label": "W",
+      "x": 127.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 87,
+      "matrix_index": 14
+    },
+    {
+      "id": 33,
+      "label": "E",
+      "x": 165.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 69,
+      "matrix_index": 20
+    },
+    {
+      "id": 34,
+      "label": "R",
+      "x": 204.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 82,
+      "matrix_index": 26
+    },
+    {
+      "id": 35,
+      "label": "T",
+      "x": 242.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 84,
+      "matrix_index": 32
+    },
+    {
+      "id": 36,
+      "label": "Y",
+      "x": 280.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 89,
+      "matrix_index": 38
+    },
+    {
+      "id": 37,
+      "label": "U",
+      "x": 318.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 85,
+      "matrix_index": 44
+    },
+    {
+      "id": 38,
+      "label": "I",
+      "x": 356.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 73,
+      "matrix_index": 50
+    },
+    {
+      "id": 39,
+      "label": "O",
+      "x": 395.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 79,
+      "matrix_index": 56
+    },
+    {
+      "id": 40,
+      "label": "P",
+      "x": 433.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 80,
+      "matrix_index": 62
+    },
+    {
+      "id": 41,
+      "label": "[",
+      "x": 471.0,
+      "y": 120.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 219,
+      "matrix_index": 68
+    },
+    {
+      "id": 42,
+      "label": "]",
+      "x": 509.0,
+      "y": 119.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 221,
+      "matrix_index": 74
+    },
+    {
+      "id": 43,
+      "label": "\\",
+      "x": 549.0,
+      "y": 119.0,
+      "width": 44.0,
+      "height": 27.0,
+      "virtual_key": 220,
+      "matrix_index": 80
+    },
+    {
+      "id": 44,
+      "label": "PgUp",
+      "x": 605.0,
+      "y": 120.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 33,
+      "matrix_index": 86
+    },
+    {
+      "id": 45,
+      "label": "CapsLock",
+      "x": 33.0,
+      "y": 158.0,
+      "width": 52.0,
+      "height": 27.0,
+      "virtual_key": 20,
+      "matrix_index": 3
+    },
+    {
+      "id": 46,
+      "label": "A",
+      "x": 98.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 65,
+      "matrix_index": 9
+    },
+    {
+      "id": 47,
+      "label": "S",
+      "x": 136.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 83,
+      "matrix_index": 15
+    },
+    {
+      "id": 48,
+      "label": "D",
+      "x": 174.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 68,
+      "matrix_index": 21
+    },
+    {
+      "id": 49,
+      "label": "F",
+      "x": 213.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 70,
+      "matrix_index": 27
+    },
+    {
+      "id": 50,
+      "label": "G",
+      "x": 252.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 71,
+      "matrix_index": 33
+    },
+    {
+      "id": 51,
+      "label": "H",
+      "x": 290.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 72,
+      "matrix_index": 39
+    },
+    {
+      "id": 52,
+      "label": "J",
+      "x": 327.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 74,
+      "matrix_index": 45
+    },
+    {
+      "id": 53,
+      "label": "K",
+      "x": 366.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 75,
+      "matrix_index": 51
+    },
+    {
+      "id": 54,
+      "label": "L",
+      "x": 405.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 76,
+      "matrix_index": 57
+    },
+    {
+      "id": 55,
+      "label": ";",
+      "x": 443.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 186,
+      "matrix_index": 63
+    },
+    {
+      "id": 56,
+      "label": "'",
+      "x": 481.0,
+      "y": 158.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 222,
+      "matrix_index": 69
+    },
+    {
+      "id": 57,
+      "label": "Enter",
+      "x": 521.0,
+      "y": 158.0,
+      "width": 70.0,
+      "height": 27.0,
+      "virtual_key": 13,
+      "matrix_index": 81
+    },
+    {
+      "id": 58,
+      "label": "LShift",
+      "x": 33.0,
+      "y": 195.0,
+      "width": 72.0,
+      "height": 27.0,
+      "virtual_key": 160,
+      "matrix_index": 4
+    },
+    {
+      "id": 59,
+      "label": "Z",
+      "x": 116.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 90,
+      "matrix_index": 10
+    },
+    {
+      "id": 60,
+      "label": "X",
+      "x": 155.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 88,
+      "matrix_index": 16
+    },
+    {
+      "id": 61,
+      "label": "C",
+      "x": 193.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 67,
+      "matrix_index": 22
+    },
+    {
+      "id": 62,
+      "label": "V",
+      "x": 232.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 86,
+      "matrix_index": 28
+    },
+    {
+      "id": 63,
+      "label": "B",
+      "x": 270.0,
+      "y": 196.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 66,
+      "matrix_index": 34
+    },
+    {
+      "id": 64,
+      "label": "N",
+      "x": 309.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 78,
+      "matrix_index": 40
+    },
+    {
+      "id": 65,
+      "label": "M",
+      "x": 347.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 77,
+      "matrix_index": 46
+    },
+    {
+      "id": 66,
+      "label": ",",
+      "x": 384.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 188,
+      "matrix_index": 52
+    },
+    {
+      "id": 67,
+      "label": ".",
+      "x": 424.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 190,
+      "matrix_index": 58
+    },
+    {
+      "id": 68,
+      "label": "/",
+      "x": 463.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 191,
+      "matrix_index": 64
+    },
+    {
+      "id": 69,
+      "label": "RShift",
+      "x": 502.0,
+      "y": 195.0,
+      "width": 56.0,
+      "height": 27.0,
+      "virtual_key": 161,
+      "matrix_index": 70
+    },
+    {
+      "id": 70,
+      "label": "Up",
+      "x": 567.0,
+      "y": 195.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 38,
+      "matrix_index": 82
+    },
+    {
+      "id": 71,
+      "label": "LCtrl",
+      "x": 34.0,
+      "y": 234.0,
+      "width": 35.0,
+      "height": 27.0,
+      "virtual_key": 162,
+      "matrix_index": 5
+    },
+    {
+      "id": 72,
+      "label": "LWin",
+      "x": 79.0,
+      "y": 234.0,
+      "width": 35.0,
+      "height": 27.0,
+      "virtual_key": 91,
+      "matrix_index": 11
+    },
+    {
+      "id": 73,
+      "label": "LAlt",
+      "x": 122.0,
+      "y": 235.0,
+      "width": 35.0,
+      "height": 27.0,
+      "virtual_key": 164,
+      "matrix_index": 17
+    },
+    {
+      "id": 74,
+      "label": "Space",
+      "x": 174.0,
+      "y": 235.0,
+      "width": 226.0,
+      "height": 27.0,
+      "virtual_key": 32,
+      "matrix_index": 35
+    },
+    {
+      "id": 75,
+      "label": "RCtrl",
+      "x": 463.0,
+      "y": 236.0,
+      "width": 34.0,
+      "height": 27.0,
+      "virtual_key": 163,
+      "matrix_index": 59
+    },
+    {
+      "id": 76,
+      "label": "FN",
+      "x": 414.0,
+      "y": 235.0,
+      "width": 35.0,
+      "height": 27.0,
+      "virtual_key": 250,
+      "matrix_index": 53
+    },
+    {
+      "id": 77,
+      "label": "Left",
+      "x": 529.0,
+      "y": 234.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 37,
+      "matrix_index": 77
+    },
+    {
+      "id": 78,
+      "label": "Down",
+      "x": 568.0,
+      "y": 234.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 40,
+      "matrix_index": 83
+    },
+    {
+      "id": 79,
+      "label": "Right",
+      "x": 605.0,
+      "y": 234.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 39,
+      "matrix_index": 89
+    },
+    {
+      "id": 80,
+      "label": "PgDn",
+      "x": 604.0,
+      "y": 159.0,
+      "width": 25.0,
+      "height": 27.0,
+      "virtual_key": 34,
+      "matrix_index": 87
+    },
+    {
+      "id": 81,
+      "label": "Wheel",
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0,
+      "virtual_key": 1,
+      "matrix_index": 84
+    }
+  ],
+  "effects": [
+    {
+      "slot": 0,
+      "hardware_id": 1,
+      "label": "Fixed on",
+      "has_speed": false,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 1,
+      "hardware_id": 2,
+      "label": "Rainbow",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 2,
+      "hardware_id": 3,
+      "label": "Respire",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": false,
+      "has_color": false
+    },
+    {
+      "slot": 3,
+      "hardware_id": 4,
+      "label": "Self-define",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 4,
+      "hardware_id": 5,
+      "label": "Rotating windmill",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 5,
+      "hardware_id": 6,
+      "label": "Sine wave",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 6,
+      "hardware_id": 7,
+      "label": "OFF",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 7,
+      "hardware_id": 8,
+      "label": "Colorful waterfall",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 8,
+      "hardware_id": 9,
+      "label": "Rotating storm",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 9,
+      "hardware_id": 10,
+      "label": "Raindrops",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 10,
+      "hardware_id": 11,
+      "label": "Ripples shining",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 11,
+      "hardware_id": 12,
+      "label": "Blossoming",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 12,
+      "hardware_id": 13,
+      "label": "Reaction",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 13,
+      "hardware_id": 14,
+      "label": "Stars twinkle",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 14,
+      "hardware_id": 15,
+      "label": "Effect 15",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": false,
+      "has_color": false
+    },
+    {
+      "slot": 15,
+      "hardware_id": 16,
+      "label": "Effect 16",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": false,
+      "has_color": false
+    },
+    {
+      "slot": 16,
+      "hardware_id": 17,
+      "label": "Retinue scanning",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": false,
+      "has_color": false
+    },
+    {
+      "slot": 17,
+      "hardware_id": 18,
+      "label": "Effect 18",
+      "has_speed": true,
+      "has_brightness": true,
+      "has_direction": false,
+      "has_random": true,
+      "has_color": true
+    },
+    {
+      "slot": 18,
+      "hardware_id": 21,
+      "label": "Custom per-key",
+      "has_speed": false,
+      "has_brightness": false,
+      "has_direction": false,
+      "has_random": false,
+      "has_color": false
+    },
+    {
+      "slot": 19,
+      "hardware_id": 0,
+      "label": "Off",
+      "has_speed": false,
+      "has_brightness": false,
+      "has_direction": false,
+      "has_random": false,
+      "has_color": false
+    }
+  ],
+  "sleep_seconds": [
+    60,
+    90,
+    120,
+    180,
+    240,
+    300,
+    600,
+    900,
+    1200
+  ]
+}

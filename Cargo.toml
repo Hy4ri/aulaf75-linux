@@ -12,3 +12,7 @@ serde_json = "1.0"
 anyhow = "1.0"
 tracing = "0.1"
 tracing-subscriber = "0.3"
+unicode-segmentation = "1"
+
+[dev-dependencies]
+gpui = { version = "0.2.2", features = ["test-support"] }

@@ -1,0 +1,10 @@
+{
+  "operation": "GetLED",
+  "opcode": "0x44",
+  "expected_profile_bytes": 128,
+  "validated": false,
+  "received_reports": [],
+  "path": "/dev/hidraw6",
+  "request_hex": "1344010000000000000000000000000000000058",
+  "error": "No complete validated GetLED response before deadline"
+}
